@@ -1,3 +1,1 @@
-console.log("Hello worlde");
-
-console.log("Hello worlde2");
+console.log("Welcome in app foka|Software");
